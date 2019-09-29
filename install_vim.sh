@@ -1,6 +1,7 @@
 #!/bin/bash
 #author:shanl
 
+apt install ctags
 if [[ -f ~/.vimrc ]]; then
 		mv -f ~/.vimrc ~/.vimrc.backup
 fi
