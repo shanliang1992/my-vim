@@ -4,6 +4,8 @@ set enc=utf8
 set fencs=utf8,gbk,gb2312,gb18030
 set helplang=cn
 set tabstop=4
+set shiftwidth=4
+set expandtab
 set number
 let Tlist_Show_One_File=1
 let Tlist_Exit_OnlyWindow=1
